@@ -1,4 +1,5 @@
 ![Arctic Engine](doc/logo_black_on_transparent.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFrostyMorning%2Farctic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFrostyMorning%2Farctic?ref=badge_shield)
 ### Designed to give you control and not take anything away.
 
 Arctic Engine is an open-source free game engine released under the MIT license. Arctic Engine is implemented in C++ and focuses on simplicity.
@@ -30,6 +31,9 @@ Arctic Engine follows Google C++ Style Guide: [https://google.github.io/stylegui
 Licensed under the MIT license, see License.txt for details.
 
 tl;drLegal: [https://www.tldrlegal.com/l/mit](https://www.tldrlegal.com/l/mit)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFrostyMorning%2Farctic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFrostyMorning%2Farctic?ref=badge_large)
 
 ## Credits
 
